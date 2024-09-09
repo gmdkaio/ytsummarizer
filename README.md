@@ -1,6 +1,6 @@
 Libraries used:
 
-yt_dlp; 
+yt_dlp; \n
 whisper;
 transformers; 
 subprocess;
